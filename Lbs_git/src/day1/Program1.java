@@ -11,9 +11,9 @@ public static void main(String[] args) {
 		}
 	}
 	if (isPerfect) {
-		System.out.println("Yes it is perfect no");
+		System.out.println("Yes it is Perfect no");
 	} else {
-System.out.println("It is not perfect no");
+System.out.println("It is not Perfect no");
 	}
 }
 }
